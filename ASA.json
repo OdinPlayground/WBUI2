@@ -1,0 +1,44 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "i.imgur.com/6qz1jCe.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Thanks for playing on Odin's Playground!",
+                    "text1": "This UI is very raw still.  Please be patient while updates are made.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Rules",
+                    "title1": "Rules",
+                    "text1": "See the discord using the button below",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/E6hkRuC"
+                }
+            }
+        ]
+    }
+}
