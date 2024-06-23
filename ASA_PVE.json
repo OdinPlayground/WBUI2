@@ -18,19 +18,39 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Welcome to Odin's Playground!",
-                    "text1": "Odin's Playground is a smaller community currently offering both PVE and PVP experiences at an x10 rate for Ark: Survival Ascended Servers.\n\nPlease see the Rules Tab and check out the discord using the link below for more information.",
+                    "text1": "Odin's Playground is a smaller community currently offering both PVE and PVP experiences at x20+ rates for Ark: Survival Ascended Servers.\n\nPlease see the Rules Tab and check out the discord using the link below for more information.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
             {
                 "tab2": {
-                    "layout": 2,
+                    "layout": 1,
                     "buttontext": "Rules",
                     "title1": "Rules",
                     "text1": "1) No hateful or abusive speech. It is just game, so let's just have some fun.\n2) No intentional use of exploits or unintended game mechanics.\n3) No griefing, wild raiding, etc. of other tribes and players.\n4) No insiding.  See guidance on insiding below.  Applies to alliances as well.\n5) Each tribe may have one base.\n6) No Teleporter traps of any kind.\n7) No blocking or setting up spawn point traps.\n8) Use the transmitter to store stuff at your own risk. If you lose stuff, that is on you. I will do nothing about it. Don't whine to me at all about it.\n9) No changing of your tribe name without expressed permission from an Admin.\n10) No blocking Artifacts.  Must either allow access or keep a vault of artifacts unlocked and stocked at all times.  Strictly enforced.\n\n[Exploits or Unintended Game Mechanics]\nThis includes building below the mesh, duping attempts, wild raiding, etc.\n\n[Insiding Explained]\nIf you want to leave a tribe or to kick someone from your tribe, an agreement must be reached on what the departing player shall take with them. It is best to have a written record of this conversation or to have an Admin mediate. Failure to follow this guidance will be viewed as insiding. Period\n\n+ Suspected cases of rule violations should be reported to an Admin. The more proof or the worse the offense, the harsher the punishment. Subject to my decision. If no proof, then I will bring in additional people to parse the he-said-she-said.",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
-            }
+            },
+		{
+			"tab3":
+			{
+				"layout": 1,
+				"buttontext": "Loot Drops",
+				"title1": "Loot Drops and Bosses",
+				"text1": "- Basic White - Resources/Foods/Event/Chibis/Artifacts\r\n- Ringed White - Resources/Foods/Event/Chibis/Artifacts\r\n- Basic Green - Saddles/Tools/Armor/Weapons level 1 - 20\r\n- Ringed Green - Saddles/Tools/Armor/Weapons level 1 - 20\r\n- Basic Blue - Saddles/Tools/Armor/Weapons level 20 - 40\r\n- Ringed Blue - Saddles/Tools/Armor/Weapons level 20 - 40\r\n- Basic Purple - Saddles/Tools/Armor/Weapons level 40 - 60\r\n- Ringed Purple - Saddles/Tools/Armor/Weapons level 40 - 60\r\n- Basic Yellow - Saddles/Tools/Armor/Weapons level 60 - 80\r\n- Ringed Yellow - Saddles/Tools/Armor/Weapons level 60 - 80\r\n- Basic Red - Saddles/Tools/Armor/Weapons level 80 - 100\r\n- Ringed Red - Saddles/Tools/Armor/Weapons level 80 - 100\r\n- Green Cave - Saddles/Tools/Armor/Weapons level 0 - 40\r\n- Blue Cave/Underwater - Saddles/Tools/Armor/Weapons level 20 - 60\r\n- Yellow Cave/Underwater - Saddles/Tools/Armor/Weapons level 60 - 100\r\n- Red Cave/Underwater/Desert - Saddles/Tools/Armor/Weapons level 80 - 100, Tek Weapons/Armor/Tools/Saddles\r\n- Bosses - ~x20 Element, Tek Weapons/Armor/Tools/Saddles",
+				"imageurl": "https://i.imgur.com/CbxT34k.jpg"
+			}
+		},
+		{
+			"tab4":
+			{
+				"layout": 1,
+				"buttontext": "Settings",
+				"title1": "General Server Settings",
+				"text1": "- x20 Harvesting, x50 Breeding/Taming, Custom XP progress for players and dinos\r\n- 200 tamed levels for dinos\r\n- Max tribe is 6 - alliances disabled.\r\n- Turret Damage is x3.5 vs Dinos and x1 vs Players.\r\n- Cave Damage is x3.\r\n- Tame/player food/water drain is 0.5.  Stam drain is 0.5.\r\n- ADMIN LOGGING is ENABLED!!!!\r\n- Propagator Stack set to 5 (10 levels)",
+				"imageurl": "https://i.imgur.com/CbxT34k.jpg"
+			}
+		}
         ],
         "links": [
             {
