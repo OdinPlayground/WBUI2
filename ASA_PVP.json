@@ -1,44 +1,68 @@
 {
-    "WBUI2": {
-        "settings": {
-            "OpenButton": 0,
-            "HideIcon": false,
-            "HideIconAfter": 60,
-            "IconURL": "https://i.imgur.com/VI8BJFF.jpg",
-            "DisableIconText": false,
-            "IconPosition": 0,
-            "IconTextColor": 0,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
-        },
-        "tabs": [
-            {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "Welcome",
-                    "title1": "Welcome to Odin's Playground!",
-                    "text1": "Odin's Playground is a smaller community currently offering both PVE and PVP experiences at an x10 rate for Ark: Survival Ascended Servers.\n\nPlease see the Rules Tab and check out the discord using the link below for more information.",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
-                }
-            },
-            {
-                "tab2": {
-                    "layout": 2,
-                    "buttontext": "Rules",
-                    "title1": "Rules",
-                    "text1": "1. Language and General Behavior\n      a. NO RULE LAWYERING!\n            i. Definition: Arguing with Admins that YOUR interpretation of the rules are the rules or spirit of the rules.\n      b. No stream sniping or using live content from Content Creators for an advantage\n      c. No Insiding!\n            i. If you want to leave a tribe or alliance or to kick someone from your tribe or alliance, an agreement must be reached on what the departing player or tribe shall take with them.\n            ii. It is best to have a written record of this conversation or to have an Admin mediate.\n            iii. Failure to follow this guidance will be viewed as insiding and will result in an immediate ban.\n      d. No intentional use of exploits or unintended game mechanics.This includes:\n            i. Building below the mesh, duping attempts, tunnel rafts, Racer Poking, floating structures, invisible bases, shield stacking, repeatedly replacing your own shield, cycling tek shield to prevent collapsing, any tek shield exploit, basilisk bombing or rocketing, cramming a crouch point with passive dinos to prevent raid while ORP is active, etc. \n            ii. This may result in an immediate ban and/or all dino wipe on all maps.\n      e. No hateful, abusive, racist, otherwise foul or overtly sexual speech, nor any harassment of players or staff is allowed. It's just a game; let's just have fun. This includes:\n            i. Player, Tribe, and Dino names.\n            ii. All Discord channels other than #salt.\n            iii. In-game chat visible to the whole server.\n      f. Penalties can include:\n            i. Mute with or without warning for a time chosen by the person muting and the severity of the offense.\n            ii. Ban with or without warning for a time chosen by the person banning and the severity of the offense.\n\n2. Building Related Rules:\n      a. Build in resource rich areas at your own risk.\n      b. Each tribe is allowed 1 base per map.\n            i. Base definition:  Any player structure that is clearly not a FOB (Forward Operating Base used to conduct a raid) or taming pen is considered a base. \n                  1. I.e. dino storage, dino breeding, resource storage, crafting, etc.\n            ii. If a structure is built within low render distance of an established base or close enough to prevent building within the established base, it is a fob and fob rules apply, despite any other classification the tribe may try to give the structure. \n            iii. If you have more than the allowed number of bases, a map wide admin wipe is likely.  You may be warned before.\n      c. Any map location is an acceptable base spot unless it violates one of the following:\n            i. Rat holes must have a legit method of entry to allow building in the rat hole.\n                  1. (i.e. crouch, walk, fly into on a dino BEFORE and THROUGH the entrance). \n                  2. Knockout, zipline, chair, teleporter only, etc. rat holes are NOT allowed.\n            ii. On Genesis 2, no building in any of the major or large tunnels that connect different biomes of the map.  The 16 smaller tunnels to the space area may be built in though. \n            iii. On Ragnarok, no building in Lava Golem or Ice Queen Caves.\n            iv. Any found will result in a COMPLETE Admin wipe on that map WITHOUT any previous warning.\n      d. All base spam must be reasonable.\n            i.  Definition of reasonable spam:\n                  1.  Turrets\n                  2.  Turret towers consisting of at least 4 turrets\n                  3.  Foundation spam within the coverage area of a generator.\n            ii. Foundations in a grid pattern to support turret nets are not considered spam and are instead considered as integral structures to a Turret Tower.\n            iii. During a raid, all other types of spam may be placed to control territory.\n                  1. Raid placed spam must be picked up within 1 hour of the completion of the raid.\n            iv. Any violations may result in a map wide admin wipe with or without previous warning.\n      e. FOB's must be taken down within 24 hours of the end of a raid.\n      f. Open world turrets must be set to WILD only and removed within 1 hour when used for making egg runs or for wild protection when farming.\n\n3. PVP and Raid Related Rules.\n      a. All open world PVP is okay until it violates one or more listed rules.\n      b. Don't just destroy TPs. Unless it is where you want to build a base or is part of a raid.\n      c. No Teleporter traps unless destroying it is allowed by the rule above.\n      d. No raiding the same tribe within 24 hours unless the tribe retaliates and attacks you back first.\n      e. Do not use your NPP to prepare to raid, build near an enemy tribe or otherwise exploit having NPP.\n            i. Following a wipe, a tribe who is the furthest inside a cave will maintain possession if still contested when NPP kicks in.\n      f. No Griefing!  Examples include:\n            i. Open world PVP killing of a single player more than 4 times in one hour unless agreed to beforehand.\n            ii. Obelisk/Spawn point camping or spawn point traps. Bases at a spawn point are not a rule violation.\n            iii. Targeting beach bobs.\n            iv. Repeatedly dropping dinos on a base with no actual intention to raid.\n            v. Handcuffing players longer than when you log out, 2 hours, or the end of your raid..\n            vi. Additional actions similar to the above.\n      g. A raid must be an obvious continuous effort. \n            i. Any REAL LIFE event resulting in a break in observable effort must be communicated in global AND ACCEPTED by the defending tribe. If both conditions are not met, raid cooldown is activated.\n            ii. If the last active player in a tribe logs off of the entire cluster for more than 30 minutes unless otherwise communicated per the above, raid cooldown is activated.\n            iii. If the defender's PVP Cooldown expires, indicating no obvious continuous effort, and there has been no agreed to communication from the attacker, the defenders may ask for a 30 minute timer.\n                  1. Each ask by the defenders will restart the clock. \n                  2. If the attackers fail to respond during this time then raid cooldown is activated. \n            iv. You may raid for as long as you desire as long as the previous guidelines are followed.\n      h. Based on popular vote, teaming is allowed. \n            i. Teaming should be limited to the larger number based on the following:\n                  1. 1.5 times the players on the defending side.\n                  2. Season tribe size limit (i.e. 6).\n            ii. Examples:\n                  1. Raiding a solo.\n                        a. 1.5 times 1 is 1.5\n                        b. Tribe limit is 6\n                        c. 6 is larger than 1.5, so the maximum raid force size is 6 players \n                              i. This is an example and I really hope you don't need 6 people to raid a solo.  If you do, you should play PVE or another game.\n                  2. Raiding a tribe of 4.\n                        a. 1.5 times 4 is 6\n                        b. Tribe limit is 6\n                        c. 6 is equal to 6, so the maximum raid force size is 6.\n      i. Counter-raiding is allowed but must follow the player restrictions from teaming above.\n\n4. Following being raided.\n      a. Reclaim or clear your old base within 24 hours.\n      b. Apply to have NPP restored to rebuild.  Be sure to make a ticket which includes the following information:\n            i. That you were raided and would like to have NPP restored.\n            ii. How many bases you had and currently have.\n            iii. The overall extent of the raid (completely wiped from a map, turrets drained a little, or something in between).\n            iv. Screenshots showing the extent of the damage.\n",
-                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
-                }
-            }
-        ],
-        "links": [
-            {
-                "link1": {
-                    "text": "Discord",
-                    "url": "https://discord.gg/E6hkRuC"
-                }
-            }
-        ]
-    }
+  "WBUI2": {
+	"settings":
+	{
+		"OpenButton": 0,
+		"HideIcon": false,
+		"HideIconAfter": 60,
+		"IconURL": "https://i.imgur.com/VI8BJFF.jpg",
+		"DisableIconText": false,
+		"IconPosition": 1,
+		"IconTextColor": 0,
+		"OpenOnStart": true,
+		"OpenOnStartOnlyNewPlayers": true,
+		"UpdateInterval": 12
+	},
+	"tabs": [
+		{
+			"tab1":
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"title1": "Welcome to Odin's Playground!",
+				"text1": "Odin's Playground is a smaller community currently offering both PVE and PVP experiences at an x20+ rates for Ark: Survival Ascended Servers.\\n\\nPlease see the Rules Tab and check out the discord using the link below for more information.",
+				"imageurl": "https://i.imgur.com/CbxT34k.jpg"
+			}
+		},
+		{
+			"tab2":
+			{
+				"layout": 1,
+				"buttontext": "Rules",
+				"title1": "Rules",
+				"text1": "1. Language and General Behavior\r\n      a. NO RULE LAWYERING!\r\n            i. Definition: Arguing with Admins that YOUR interpretation of the rules are the rules or spirit of the rules.\r\n      b. No stream sniping or using live content from Content Creators for an advantage\r\n      c. No Insiding!\r\n            i. If you want to leave a tribe or alliance or to kick someone from your tribe or alliance, an agreement must be reached on what the departing player or tribe shall take with them.\r\n            ii. It is best to have a written record of this conversation or to have an Admin mediate.\r\n            iii. Failure to follow this guidance will be viewed as insiding and will result in an immediate ban.\r\n      d. No intentional use of exploits or unintended game mechanics.This includes:\r\n            i. Building below the mesh, duping attempts, tunnel rafts, Racer Poking, floating structures, invisible bases, shield stacking, repeatedly replacing your own shield, cycling tek shield to prevent collapsing, any tek shield exploit, basilisk bombing or rocketing, cramming a crouch point with passive dinos to prevent raid while ORP is active, etc. \r\n            ii. This may result in an immediate ban and/or all dino wipe on all maps.\r\n      e. No hateful, abusive, racist, otherwise foul or overtly sexual speech, nor any harassment of players or staff is allowed. It's just a game; let's just have fun. This includes:\r\n            i. Player, Tribe, and Dino names.\r\n            ii. All Discord channels other than #salt.\r\n            iii. In-game chat visible to the whole server.\r\n      f. Penalties can include:\r\n            i. Mute with or without warning for a time chosen by the person muting and the severity of the offense.\r\n            ii. Ban with or without warning for a time chosen by the person banning and the severity of the offense.\r\n\r\n2. Building Related Rules:\r\n      a. Build in resource rich areas at your own risk.\r\n      b. Each tribe is allowed 1 base per map.\r\n            i. Base definition:  Any player structure that is clearly not a FOB (Forward Operating Base used to conduct a raid) or taming pen is considered a base. \r\n                  1. I.e. dino storage, dino breeding, resource storage, crafting, etc.\r\n            ii. If a structure is built within low render distance of an established base or close enough to prevent building within the established base, it is a fob and fob rules apply, despite any other classification the tribe may try to give the structure. \r\n            iii. If you have more than the allowed number of bases, a map wide admin wipe is likely.  You may be warned before.\r\n      c. Any map location is an acceptable base spot unless it violates one of the following:\r\n            i. Rat holes must have a legit method of entry to allow building in the rat hole.\r\n                  1. (i.e. crouch, walk, fly into on a dino BEFORE and THROUGH the entrance). \r\n                  2. Knockout, zipline, chair, teleporter only, etc. rat holes are NOT allowed.\r\n            ii. On Genesis 2, no building in any of the major or large tunnels that connect different biomes of the map.  The 16 smaller tunnels to the space area may be built in though. \r\n            iii. On Ragnarok, no building in Lava Golem or Ice Queen Caves.\r\n            iv. Any found will result in a COMPLETE Admin wipe on that map WITHOUT any previous warning.\r\n      d. All base spam must be reasonable.\r\n            i.  Definition of reasonable spam:\r\n                  1.  Turrets\r\n                  2.  Turret towers consisting of at least 4 turrets\r\n                  3.  Foundation spam within the coverage area of a generator.\r\n            ii. Foundations in a grid pattern to support turret nets are not considered spam and are instead considered as integral structures to a Turret Tower.\r\n            iii. During a raid, all other types of spam may be placed to control territory.\r\n                  1. Raid placed spam must be picked up within 1 hour of the completion of the raid.\r\n            iv. Any violations may result in a map wide admin wipe with or without previous warning.\r\n      e. FOB's must be taken down within 24 hours of the end of a raid.\r\n      f. Open world turrets must be set to WILD only and removed within 1 hour when used for making egg runs or for wild protection when farming.\r\n\r\n3. PVP and Raid Related Rules.\r\n      a. All open world PVP is okay until it violates one or more listed rules.\r\n      b. Don't just destroy TPs. Unless it is where you want to build a base or is part of a raid.\r\n      c. No Teleporter traps unless destroying it is allowed by the rule above.\r\n      d. No raiding the same tribe within 24 hours unless the tribe retaliates and attacks you back first.\r\n      e. Do not use your NPP to prepare to raid, build near an enemy tribe or otherwise exploit having NPP.\r\n            i. Following a wipe, a tribe who is the furthest inside a cave will maintain possession if still contested when NPP kicks in.\r\n      f. No Griefing!  Examples include:\r\n            i. Open world PVP killing of a single player more than 4 times in one hour unless agreed to beforehand.\r\n            ii. Obelisk/Spawn point camping or spawn point traps. Bases at a spawn point are not a rule violation.\r\n            iii. Targeting beach bobs.\r\n            iv. Repeatedly dropping dinos on a base with no actual intention to raid.\r\n            v. Handcuffing players longer than when you log out, 2 hours, or the end of your raid..\r\n            vi. Additional actions similar to the above.\r\n      g. A raid must be an obvious continuous effort. \r\n            i. Any REAL LIFE event resulting in a break in observable effort must be communicated in global AND ACCEPTED by the defending tribe. If both conditions are not met, raid cooldown is activated.\r\n            ii. If the last active player in a tribe logs off of the entire cluster for more than 30 minutes unless otherwise communicated per the above, raid cooldown is activated.\r\n            iii. If there is no obvious continuous effort and there has been no agreed to communication from the attacker, the defenders may ask for a 30 minute timer.\r\n                  1. Each ask by the defenders will restart the clock. \r\n                  2. If the attackers fail to respond during this time then raid cooldown is activated. \r\n            iv. You may raid for as long as you desire as long as the previous guidelines are followed.\r\n      h. Based on popular vote, teaming is allowed. \r\n            i. Teaming should be limited to the larger number based on the following:\r\n                  1. 1.5 times the players on the defending side.\r\n                  2. Season tribe size limit (i.e. 6).\r\n            ii. Examples:\r\n                  1. Raiding a solo.\r\n                        a. 1.5 times 1 is 1.5\r\n                        b. Tribe limit is 6\r\n                        c. 6 is larger than 1.5, so the maximum raid force size is 6 players \r\n                              i. This is an example and I really hope you don't need 6 people to raid a solo.  If you do, you should play PVE or another game.\r\n                  2. Raiding a tribe of 4.\r\n                        a. 1.5 times 4 is 6\r\n                        b. Tribe limit is 6\r\n                        c. 6 is equal to 6, so the maximum raid force size is 6.\r\n      i. Counter-raiding is allowed but must follow the player restrictions from teaming above.\r\n\r\n4. Following being raided.\r\n      a. Reclaim or clear your old base within 24 hours.\r\n      b. Apply to have NPP restored to rebuild.  Be sure to make a ticket which includes the following information:\r\n            i. That you were raided and would like to have NPP restored.\r\n            ii. How many bases you had and currently have.\r\n            iii. The overall extent of the raid (completely wiped from a map, turrets drained a little, or something in between).\r\n            iv. Screenshots showing the extent of the damage.\r\n",
+				"imageurl": "https://i.imgur.com/CbxT34k.jpg"
+			}
+		},
+		{
+			"tab3":
+			{
+				"layout": 1,
+				"buttontext": "Loot Drops",
+				"title1": "Loot Drops and Bosses",
+				"text1": "- Basic White - Resources/Foods/Event/Chibis/Artifacts\r\n- Ringed White - Resources/Foods/Event/Chibis/Artifacts\r\n- Basic Green - Saddles/Tools/Armor/Weapons level 1 - 20\r\n- Ringed Green - Saddles/Tools/Armor/Weapons level 1 - 20\r\n- Basic Blue - Saddles/Tools/Armor/Weapons level 20 - 40\r\n- Ringed Blue - Saddles/Tools/Armor/Weapons level 20 - 40\r\n- Basic Purple - Saddles/Tools/Armor/Weapons level 40 - 60\r\n- Ringed Purple - Saddles/Tools/Armor/Weapons level 40 - 60\r\n- Basic Yellow - Saddles/Tools/Armor/Weapons level 60 - 80\r\n- Ringed Yellow - Saddles/Tools/Armor/Weapons level 60 - 80\r\n- Basic Red - Saddles/Tools/Armor/Weapons level 80 - 100\r\n- Ringed Red - Saddles/Tools/Armor/Weapons level 80 - 100\r\n- Green Cave - Saddles/Tools/Armor/Weapons level 0 - 40\r\n- Blue Cave/Underwater - Saddles/Tools/Armor/Weapons level 20 - 60\r\n- Yellow Cave/Underwater - Saddles/Tools/Armor/Weapons level 60 - 100\r\n- Red Cave/Underwater/Desert - Saddles/Tools/Armor/Weapons level 80 - 100, Tek Weapons/Armor/Tools/Saddles\r\n- Bosses - ~x20 Element, Tek Weapons/Armor/Tools/Saddles",
+				"imageurl": "https://i.imgur.com/CbxT34k.jpg"
+			}
+		},
+		{
+			"tab4":
+			{
+				"layout": 1,
+				"buttontext": "Settings",
+				"title1": "General Server Settings",
+				"text1": "- x20 Harvesting, x50 Breeding/Taming, Custom XP progress for players and dinos\r\n- 200 tamed levels for dinos\r\n- Max tribe is 6 - alliances disabled.\r\n- Turret Damage is x3.5 vs Dinos and x1 vs Players.\r\n- Cave Damage is x3.\r\n- Tame/player food/water drain is 0.5.  Stam drain is 0.5.\r\n- ADMIN LOGGING is ENABLED!!!!\r\n- Propagator Stack set to 5 (10 levels)",
+				"imageurl": "https://i.imgur.com/CbxT34k.jpg"
+			}
+		}
+	],
+	"links": [
+		{
+			"link1":
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/E6hkRuC"
+			}
+		}
+	]
+}
 }
